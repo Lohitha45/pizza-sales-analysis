@@ -76,6 +76,25 @@ SQL queries were used to analyze pizza sales data, focusing on key performance i
 4. Created pivot tables according to the questions asked.
 5. Merge all pivot tables into one dashboard.
 ### Result and Findings
+![Screenshot (184)](https://github.com/user-attachments/assets/8a640cab-1585-4a8e-ad15-e3be73a7fe4a)
+## 🧐 Key Findings
+### Busiest Days and Times
+- **Days**: Orders are highest on weekends, particularly on **Friday** and **Saturday evenings**.
+- **Times**: Peak order times are between **12:00–1:00 PM** and **4:00–8:00 PM**.
+
+### Category Performance
+- The **Classic** category leads in both total orders and sales revenue.
+
+### Size Contribution
+- **Large-sized pizzas** generate the maximum revenue and contribute the most to total sales.
+
+### Best Sellers
+- **Classic Deluxe** and **Chicken Pizza** are the top-performing products, driving both orders and revenue.
+
+### Worst Performer
+- The **Brie Carre** has the lowest orders and revenue, ranking at the bottom in performance.
+
+---
 ### Recomendations
 ### Limitations
 ### References
