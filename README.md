@@ -68,8 +68,13 @@ XL → X-Large,
 XXL → XX-Large.</b>
   - Added a new column named <b>"order_day"</b> that represents the day of the week (e.g., Monday, Tuesday, etc.).
 ### SQL Queries for Data Analysis
-SQL queries were used to analyze pizza sales data, focusing on key performance indicators (KPIs) like total sales, top-selling pizzas, and sales trends by day and region. These queries helped address the problem statement and uncover valuable insights for optimizing sales strategies. For the complete list of SQL queries, click [here]().
-### Data Analysis
+SQL queries were used to analyze pizza sales data, focusing on key performance indicators (KPIs) like total sales, top-selling pizzas, and sales trends by day and region. These queries helped address the problem statement and uncover valuable insights for optimizing sales strategies. For the complete list of SQL queries, click here for : [ SQL_Queries_for Data_Analysis ](https://github.com/Lohitha45/pizza-sales-analysis/blob/main/PIZZA%20SALES%20SQL%20QUERIES.docx).
+### Process
+1. SQL Queries for Data Analysis
+2. Data Cleaning and Processing
+3. Made sure data is consistent and clean with respect to data type, data format and values used.
+4. Created pivot tables according to the questions asked.
+5. Merge all pivot tables into one dashboard.
 ### Result and Findings
 ### Recomendations
 ### Limitations
