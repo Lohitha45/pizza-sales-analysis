@@ -9,12 +9,13 @@
 5. [Data Cleaning and Processing](#data-cleaning-and-processing)
 6. [SQL Queries for Data Analysis](#sql-queries-for-data-analysis)
 7. [Process](#process)
-8. [Result and Findings](#results-and-findings)
+8. [Result and Findings](#result-and-findings)
 9. [Recommendations](#recommendations)
 10. [Conclusion](#conclusion)
-### 🗂️Data Sources
- The dataset used for this analysis is "Pizza_Sales_Data.csv" file, containing detailed information . You can download from hear [Pizza_Sales_Data.csv](https://github.com/Lohitha45/pizza-sales-analysis/blob/main/Pizza_Sales_Data%20.csv)
-### 🛠️Tools Used
+### 🗂️ Data Sources <a name="data-sources"></a> 
+- The dataset used for this analysis is the "Pizza_Sales_Data.csv" file, containing detailed information.
+- You can download the dataset from the following link: [Pizza_Sales_Data.csv](https://github.com/Lohitha45/pizza-sales-analysis/blob/main/Pizza_Sales_Data%20.csv)
+### 🛠️Tools Used <a name="tools-used"></a>
  - **Excel**: For data cleaning, analysis, and initial visualizations.
  - **SQL Server**: For querying and analyzing the dataset.
 
@@ -90,7 +91,7 @@ SQL queries were used to analyze pizza sales data, focusing on key performance i
 3. Made sure data is consistent and clean with respect to data type, data format and values used.
 4. Created pivot tables according to the questions asked.
 5. Merge all pivot tables into one dashboard.
-### Result and Findings
+### Result and Findings <a name="result-and-findings"></a>
 ![Screenshot (184)](https://github.com/user-attachments/assets/8a640cab-1585-4a8e-ad15-e3be73a7fe4a)
 ## 🧐Key Findings
 ### Busiest Days and Times
@@ -110,7 +111,7 @@ SQL queries were used to analyze pizza sales data, focusing on key performance i
 - The **Brie Carre** has the lowest orders and revenue, ranking at the bottom in performance.
 
 ---
-### 📈Recomendations
+### 📈Recommendations <a name="recommendations"></a> 
 
 1. **Boost Weekend and Evening Sales**  
    - Increase promotional offers or special deals during weekends and peak evening hours.
