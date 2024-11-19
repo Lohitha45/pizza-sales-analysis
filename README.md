@@ -1,6 +1,6 @@
 # 🍕 Pizza-Sales-Analysis
  ### Overview
- This project analyzes pizza sales data using Excel and SQL. It includes data cleaning, creating pivot tables and dashboards in Excel, and performing SQL queries to analyze KPIs and trends. The goal is to identify top-selling pizzas, uncover sales trends, and optimize sales strategies.
+ This project analyzes pizza sales data using **Excel** and **SQL**. It includes data cleaning, creating pivot tables and dashboards in Excel, and performing SQL queries to analyze KPIs and Trends. The goal is to identify top-selling pizzas, uncover sales trends, and optimize sales strategies.
 ### 📚Table of Contents:
 1. [Overview](#overview)
 2. [Data Sources](#data-sources)
@@ -91,7 +91,7 @@ SQL queries were used to analyze pizza sales data, focusing on key performance i
 3. Made sure data is consistent and clean with respect to data type, data format and values used.
 4. Created pivot tables according to the questions asked.
 5. Merge all pivot tables into one dashboard.
-### Result and Findings <a name="result-and-findings"></a>
+### 📊Result and Findings <a name="result-and-findings"></a>
 ![Screenshot (184)](https://github.com/user-attachments/assets/8a640cab-1585-4a8e-ad15-e3be73a7fe4a)
 ## 🧐Key Findings
 ### Busiest Days and Times
