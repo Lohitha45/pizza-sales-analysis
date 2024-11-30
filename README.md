@@ -92,7 +92,7 @@ SQL queries were used to analyze pizza sales data, focusing on key performance i
 4. Created pivot tables according to the questions asked.
 5. Merge all pivot tables into one dashboard.
 ### 📊Result and Findings <a name="result-and-findings"></a>
-![](https://github.com/Lohitha45/pizza-sales-analysis/blob/main/Screenshot%20(184).png)
+![Screenshot (184)](https://github.com/Lohitha45/pizza-sales-analysis/blob/main/Screenshot%20(184).png)
 ### 🧐Key Findings
 #### 1. Busiest Days and Times
 - **Days**: Orders are highest on weekends, particularly on **Friday** and **Saturday evenings**.
